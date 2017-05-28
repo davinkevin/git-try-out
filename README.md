@@ -1,3 +1,1 @@
 A simple text file to init the project
-
-Working with porcelain methods...
